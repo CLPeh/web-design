@@ -1,0 +1,37 @@
+
+@font-face{
+  font-family: Champagne;
+  src:url(cac_champagne.ttf),
+  url(cac_champagne.woff);
+ }
+html{
+  
+  font-family: Champagne,cursive;
+ background-image: url(https://i.pinimg.com/originals/98/de/04/98de046950bc448f7ee463a81d832839.jpg);
+} 
+
+article.ex1 {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+a:link {
+ color: rgb(0, 2, 128);
+}
+
+a:hover {
+ color: rgb(41, 122, 77);
+}
+
+a:active {
+ color: rgb(236, 159, 44);
+} 
+
+body{
+  background-color: rgb(219, 240, 219);
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 0%;
+}
